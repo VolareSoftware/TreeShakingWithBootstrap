@@ -2,8 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/src/TreeShakingWithBootstrao/.vs
-/src/TreeShakingWithBootstrao/Web/bin
-/src/TreeShakingWithBootstrao/Web/obj/Debug
-/src/TreeShakingWithBootstrao/Web/node_modules
-/src/TreeShakingWithBootstrao/Web/package-lock.json
+/src/TreeShakingWithBootstrap/.vs
+/src/TreeShakingWithBootstrap/Web/bin
+/src/TreeShakingWithBootstrap/Web/obj/Debug
+/src/TreeShakingWithBootstrap/Web/node_modules
+/src/TreeShakingWithBootstrap/Web/package-lock.json
