@@ -1,0 +1,14 @@
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\bin\Web.dll.config
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\bin\Web.dll
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\bin\Web.pdb
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\obj\Debug\Web.dll
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithFontAwesome\src\TreeShakingWithFontAwesome\Web\obj\Debug\Web.pdb
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\bin\Web.dll.config
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\bin\Web.dll
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\bin\Web.pdb
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\obj\Debug\Web.dll
+C:\Users\joe\Dropbox\My Projects\Volare\TreeShakingWithBootstrap\src\TreeShakingWithBootstrap\Web\obj\Debug\Web.pdb
