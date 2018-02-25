@@ -1,4 +1,6 @@
-﻿const webpack = require("webpack");
+﻿/// <reference path="node_modules/jquery/dist/jquery.slim.min.js" />
+/// <reference path="node_modules/jquery/dist/jquery.slim.min.js" />
+const webpack = require("webpack");
 const path = require("path");
 const CleanWebpackPlugin = require("clean-webpack-plugin");
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
@@ -19,7 +21,6 @@ module.exports = () => {
             new webpack.ProvidePlugin({
                 $: "jquery",
                 Popper: ["popper.js", "default"],
-                // Bootstrap scripts
                 Alert: "exports-loader?Alert!bootstrap/js/dist/alert",
                 Button: "exports-loader?Button!bootstrap/js/dist/button",
                 Carousel: "exports-loader?Carousel!bootstrap/js/dist/carousel",
@@ -49,7 +50,10 @@ module.exports = () => {
             modules: [
                 path.resolve(__dirname, "scripts"),
                 "node_modules"
-            ]
+            ],
+            alias: {
+                jquery: "jquery/dist/jquery.slim.min.js"
+            }
         },
         module: {
             rules: [
